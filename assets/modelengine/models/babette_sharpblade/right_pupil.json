@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[7.45,7.450001,8.0],"to":[8.55,8.549999,8.0],"faces":{"south":{"uv":[13.025,0.525,13.225,0.725],"texture":"#0","tintindex":0},"north":{"uv":[13.225,0.525,13.025,0.725],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/models/babette_sharpblade","particle":"#0"}}

@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[8.0,3.0,8.0],"to":[8.03,11.0,24.0],"faces":{"east":{"uv":[0.0,0.0,16.0,8.0],"texture":"#4","tintindex":0},"west":{"uv":[16.0,0.0,0.0,8.0],"texture":"#4","tintindex":0}}}],"textures":{"4":"modelengine:entity/models/end_wings","particle":"#4"}}

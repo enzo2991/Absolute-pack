@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle":"levelcraft_pack:textures_levelcraft_pack/items_textures/ancient_debris_side_commun",
+    "all": "levelcraft_pack:textures_levelcraft_pack/items_textures/ancient_debris_side_commun"
+  },
+  "elements":[
+  {
+          "from": [0, 0, 0],
+          "to": [16, 16, 16],
+          "light_emission": 15,
+          "shade": false,
+          "faces": {
+            "down":  {"texture": "#all",  "cullface": "down"},
+            "up":    {"texture": "#all",  "cullface": "up"},
+            "north": {"texture": "#all", "cullface": "north"},
+            "south": {"texture": "#all", "cullface": "south"},
+            "west":  {"texture": "#all", "cullface": "west"},
+            "east":  {"texture": "#all", "cullface": "east"}
+          }
+      }
+  ]
+}

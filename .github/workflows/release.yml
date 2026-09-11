@@ -1,0 +1,23 @@
+name: Pack Resource Pack Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create Zip Archive with Release Tag
+        run: |
+          zip -r "absolute.zip" assets nexo_26_2 pack.mcmeta pack.png
+
+      - name: Upload Zip to Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: ${{ env.ZIP_NAME }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

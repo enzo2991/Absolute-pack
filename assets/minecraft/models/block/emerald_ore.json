@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "minecraft:block/emerald_ore",
+    "base": "minecraft:block/emerald_ore"
+  },
+  "elements":[
+  {
+          "from": [0, 0, 0],
+          "to": [16, 16, 16],
+          "light_emission": 10,
+          "shade": false,
+          "faces": {
+              "down":  {"texture": "#base", "cullface": "down"},
+              "up":    {"texture": "#base", "cullface": "up"},
+              "north": {"texture": "#base", "cullface": "north"},
+              "south": {"texture": "#base", "cullface": "south"},
+              "west":  {"texture": "#base", "cullface": "west"},
+              "east":  {"texture": "#base", "cullface": "east"}
+          }
+      }
+  ]
+}
