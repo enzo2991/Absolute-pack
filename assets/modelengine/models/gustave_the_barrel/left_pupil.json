@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[7.375,7.375,8.0],"to":[8.625,8.625,8.0],"faces":{"south":{"uv":[2.8875,6.0125,2.9875,6.1125],"texture":"#0","tintindex":0},"north":{"uv":[2.8875,6.0125,2.9875,6.1125],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/models/gustave_the_barrel","particle":"#0"}}

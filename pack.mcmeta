@@ -10,20 +10,32 @@
       {"text": "t", "color": "#60F06B"},
       {"text": "e", "color": "#45F46B"},
       {"text": "\n"},
-      {"text": "V2.0.1 • 26.2 • Gris", "color": "#45F46B"}
+      {"text": "V2.0.2 • 26.2", "color": "#45F46B"}
     ],
     "pack_format": 34,
     "supported_formats": {
       "min_inclusive": 34,
       "max_inclusive": 64
     },
+
     "min_format": 34,
     "max_format": 199
   },
+
   "overlays": {
     "entries": [
       {
         "directory": "nexo_26_2",
+        "min_format": 88,
+        "max_format": 199
+      },
+      {
+        "directory": "nexo_26_3",
+        "min_format": 88,
+        "max_format": 199
+      },
+      {
+        "directory": "modelengine_26_2",
         "min_format": 88,
         "max_format": 199
       }

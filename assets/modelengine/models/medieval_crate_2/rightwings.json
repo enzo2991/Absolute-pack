@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[6.0893745,0.9200001,7.9369683],"to":[20.249374,15.08,7.9369683],"faces":{"south":{"uv":[1.25,9.4375,2.5,10.6875],"texture":"#0","tintindex":0},"north":{"uv":[2.5,9.4375,1.25,10.6875],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/models/midievalcrate_2","particle":"#0"}}

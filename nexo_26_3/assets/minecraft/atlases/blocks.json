@@ -1,0 +1,89 @@
+
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "minerite:items/ancient_debris_ancestral"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/ancient_debris_antique"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/ancient_debris_legendaire"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/ancient_debris_mythique"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/ancient_debris_ultime"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/astral_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/astrallyth_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/celeste_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/divin_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/elite_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/epique_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/excellyth_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/nebullyth_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/peu_commun_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/primordial_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/pulsar_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/rare_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/spectral_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/super_rare_ore"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/void_ore"
+    },
+    {
+      "type": "single",
+      "resource": "nexo:atlas/block/minecraft/item/barrier"
+    }
+  ]
+}
