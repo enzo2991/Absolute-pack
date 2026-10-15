@@ -1,1 +1,1 @@
-{"parent":"item/paper","textures":{"layer0":"levelcraft_pack:textures_levelcraft_pack/items_textures/void_ingot","particle":"levelcraft_pack:textures_levelcraft_pack/items_textures/void_ingot"}}
+{"parent":"item/paper","textures":{"layer0":"minerite:items/void_ingot","particle":"minerite:items/void_ingot"}}

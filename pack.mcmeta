@@ -2,29 +2,27 @@
   "pack": {
     "description": [
       {"text": "A", "color": "#FF846E"},
-      {"text": "b", "color": "#D3A06D"},
-      {"text": "s", "color": "#A7BD6C"},
-      {"text": "o", "color": "#7BD96B"},
-      {"text": "l", "color": "#50F06B"},
-      {"text": "u", "color": "#45F46B"},
-      {"text": "t", "color": "#45F46B"},
-      {"text": "e ", "color": "#45F46B"},
-      {"text": "V1.6.2", "color": "#45F46B"}
+      {"text": "b", "color": "#E89B6D"},
+      {"text": "s", "color": "#D1B26C"},
+      {"text": "o", "color": "#BAC96C"},
+      {"text": "l", "color": "#A3DF6B"},
+      {"text": "u", "color": "#80E96B"},
+      {"text": "t", "color": "#60F06B"},
+      {"text": "e", "color": "#45F46B"},
+      {"text": "\n"},
+      {"text": "V1.0.0 • 26.2 • Gris", "color": "#45F46B"}
     ],
-    "pack_format": 88,
-    "min_format": 88,
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 64
+    },
+    "min_format": 34,
     "max_format": 199
   },
   "overlays": {
     "entries": [
       {
-        "directory": "modelengine_1_21_6",
-        "min_format": 63,
-        "max_format": 32767,
-        "formats": [63, 32767]
-      },
-      {
-        "formats": [88, 199],
         "directory": "nexo_26_2",
         "min_format": 88,
         "max_format": 199
