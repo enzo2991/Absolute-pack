@@ -1,1 +1,1 @@
-{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[5.0,8.0,8.0],"to":[11.0,11.0,8.0],"faces":{"north":{"uv":[13.5,0.0,15.0,0.75],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/models/cubee_shulker","particle":"#0"}}
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[5.0,8.0,8.0],"to":[11.0,11.0,8.0],"faces":{"north":{"uv":[13.5,0.0,15.0,0.75],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/models/d06c01aa-392e-37c0-b253-5b07635f3aa2","particle":"#0"}}
