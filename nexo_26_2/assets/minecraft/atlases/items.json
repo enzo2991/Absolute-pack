@@ -1110,7 +1110,75 @@
     },
     {
       "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_abeille_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_abysse_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_aigle_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_albinos_pickaxe"
+    },
+    {
+      "type": "single",
       "resource": "minerite:minerite_pickaxes_skins/items/skin_amanite_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_amethyste_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_amour_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_ancre_marine_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_ange_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_antimatiere_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_araignee_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_arc_en_ciel_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_aurore_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_axolotl_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_barbare_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_basalte_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_basilic_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_bioluminescent_pickaxe"
     },
     {
       "type": "single",
@@ -1118,7 +1186,187 @@
     },
     {
       "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_blanc_pur_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_bonbon_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_braise_noire_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_brise_glace_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_bronze_antique_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_bucheron_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_c_ur_brise_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_c_ur_d_or_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_cactus_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_calmar_geant_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_camouflage_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_cepe_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_cerf_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_chantier_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_chitine_doree_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_chrome_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_circuit_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_citrouille_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_cobra_royal_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_corail_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_corbeau_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_corsaire_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_coucher_de_soleil_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_creeper_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_cthulhu_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_cuivre_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_cupidon_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_demon_aile_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_demon_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_desert_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_diablotin_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_diamant_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_disco_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_dracula_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_dragon_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_eclair_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_emeraude_brute_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_end_pickaxe"
+    },
+    {
+      "type": "single",
       "resource": "minerite:minerite_pickaxes_skins/items/skin_enderman_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_enfer_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_esprit_sylvestre_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_faucheuse_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_faux_spectrale_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_fee_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_feu_follet_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_flamant_pickaxe"
     },
     {
       "type": "single",
@@ -1126,7 +1374,131 @@
     },
     {
       "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_forgeron_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_fossile_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_foudre_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_galaxie_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_geode_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_givre_noir_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_givre_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_glace_eternelle_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_glace_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_gourmand_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_hallebarde_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_hibou_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_imperatrice_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_ivoire_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_jade_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_jungle_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_kraken_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_lame_de_lune_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_laser_bleu_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_laser_rouge_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_lave_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_lotus_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_lune_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_mage_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_magma_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_maillet_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_mante_pickaxe"
+    },
+    {
+      "type": "single",
       "resource": "minerite:minerite_pickaxes_skins/items/skin_marguerite_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_mars_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_marteau_de_guerre_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_matrix_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_meduse_pickaxe"
     },
     {
       "type": "single",
@@ -1134,7 +1506,123 @@
     },
     {
       "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_mjolnir_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_moisson_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_mousse_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_nain_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_neant_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_nebuleuse_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_necromancien_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_neon_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_nether_fongique_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_nether_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_noir_absolu_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_obsidienne_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_ocean_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_oiseau_de_feu_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_ombre_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_onyx_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_or_massif_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_or_noir_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_or_royal_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_orage_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_os_calcine_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_os_de_dragon_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_ossements_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_paladin_pickaxe"
+    },
+    {
+      "type": "single",
       "resource": "minerite:minerite_pickaxes_skins/items/skin_panda_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_pasteque_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_perroquet_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_pharaon_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_phenix_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_pic_vert_pickaxe"
     },
     {
       "type": "single",
@@ -1142,11 +1630,219 @@
     },
     {
       "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_pompier_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_poseidon_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_poulpe_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_prisme_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_quartz_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_radioactif_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_redstone_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_reine_des_neiges_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_renne_de_noel_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_requin_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_rgb_gamer_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_roi_liche_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_rose_gold_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_rose_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_rouille_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_royale_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_rubis_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_rustique_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_sakura_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_sang_lunaire_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_sang_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_saphir_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_saturne_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_scarabee_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_sceptre_royal_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_sculk_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_selenite_pickaxe"
+    },
+    {
+      "type": "single",
       "resource": "minerite:minerite_pickaxes_skins/items/skin_seraphin_pickaxe"
     },
     {
       "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_serpent_corail_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_slime_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_solaire_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_spectre_lumineux_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_spectre_nocturne_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_spectre_vert_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_squelette_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_sucre_dorge_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_surtension_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_tempete_pickaxe"
+    },
+    {
+      "type": "single",
       "resource": "minerite:minerite_pickaxes_skins/items/skin_terre_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_tigre_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_titan_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_tonnerre_bleu_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_toucan_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_tournesol_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_toxique_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_triton_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_vampire_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_vaporwave_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_vert_de_gris_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_viking_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_vipere_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_wendigo_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_wither_pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:minerite_pickaxes_skins/items/skin_zebre_pickaxe"
     },
     {
       "type": "single",
