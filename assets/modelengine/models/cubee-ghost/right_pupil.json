@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"from":[7.4032497,7.4032497,8.0],"to":[8.59675,8.59675,8.0],"faces":{"south":{"uv":[13.016,7.516,13.484,7.984],"texture":"#0","tintindex":0},"north":{"uv":[13.016,7.016,13.484,7.484],"texture":"#0","tintindex":0}}}],"textures":{"0":"modelengine:entity/models/ghost_cubee","particle":"#0"}}
