@@ -70,6 +70,14 @@
     },
     {
       "type": "single",
+      "resource": "minerite:items/soul_bedrock"
+    },
+    {
+      "type": "single",
+      "resource": "minerite:items/soul_bedrock_fragile"
+    },
+    {
+      "type": "single",
       "resource": "minerite:items/spectral_ore"
     },
     {
